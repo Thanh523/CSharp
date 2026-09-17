@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\hauth\\OneDrive\\Tài liệu\\GitHub\\CSharp\\Buoi6\\Bai2\\Bai2.csproj": {}
+    "C:\\Users\\hauth\\OneDrive\\Tài liệu\\GitHub\\CSharp\\Buoi6\\Bai2\\Bai2.csproj": {}
   },
   "projects": {
-    "c:\\Users\\hauth\\OneDrive\\Tài liệu\\GitHub\\CSharp\\Buoi6\\Bai2\\Bai2.csproj": {
+    "C:\\Users\\hauth\\OneDrive\\Tài liệu\\GitHub\\CSharp\\Buoi6\\Bai2\\Bai2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\hauth\\OneDrive\\Tài liệu\\GitHub\\CSharp\\Buoi6\\Bai2\\Bai2.csproj",
+        "projectUniqueName": "C:\\Users\\hauth\\OneDrive\\Tài liệu\\GitHub\\CSharp\\Buoi6\\Bai2\\Bai2.csproj",
         "projectName": "Bai2",
-        "projectPath": "c:\\Users\\hauth\\OneDrive\\Tài liệu\\GitHub\\CSharp\\Buoi6\\Bai2\\Bai2.csproj",
+        "projectPath": "C:\\Users\\hauth\\OneDrive\\Tài liệu\\GitHub\\CSharp\\Buoi6\\Bai2\\Bai2.csproj",
         "packagesPath": "C:\\Users\\hauth\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\hauth\\OneDrive\\Tài liệu\\GitHub\\CSharp\\Buoi6\\Bai2\\obj\\",
+        "outputPath": "C:\\Users\\hauth\\OneDrive\\Tài liệu\\GitHub\\CSharp\\Buoi6\\Bai2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
