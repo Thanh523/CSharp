@@ -1,0 +1,12 @@
+C:\Users\hauth\OneDrive\Tài liệu\GitHub\CSharp\Lab02\TH01\Bai9\thamchieuout\bin\Debug\net10.0\thamchieuout.deps.json
+C:\Users\hauth\OneDrive\Tài liệu\GitHub\CSharp\Lab02\TH01\Bai9\thamchieuout\bin\Debug\net10.0\thamchieuout.dll
+C:\Users\hauth\OneDrive\Tài liệu\GitHub\CSharp\Lab02\TH01\Bai9\thamchieuout\bin\Debug\net10.0\thamchieuout.pdb
+C:\Users\hauth\OneDrive\Tài liệu\GitHub\CSharp\Lab02\TH01\Bai9\thamchieuout\obj\Debug\net10.0\thamchieuout.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hauth\OneDrive\Tài liệu\GitHub\CSharp\Lab02\TH01\Bai9\thamchieuout\obj\Debug\net10.0\thamchieuout.AssemblyInfoInputs.cache
+C:\Users\hauth\OneDrive\Tài liệu\GitHub\CSharp\Lab02\TH01\Bai9\thamchieuout\obj\Debug\net10.0\thamchieuout.AssemblyInfo.cs
+C:\Users\hauth\OneDrive\Tài liệu\GitHub\CSharp\Lab02\TH01\Bai9\thamchieuout\obj\Debug\net10.0\thamchieuout.csproj.CoreCompileInputs.cache
+C:\Users\hauth\OneDrive\Tài liệu\GitHub\CSharp\Lab02\TH01\Bai9\thamchieuout\obj\Debug\net10.0\thamchieuout.sourcelink.json
+C:\Users\hauth\OneDrive\Tài liệu\GitHub\CSharp\Lab02\TH01\Bai9\thamchieuout\obj\Debug\net10.0\thamchieuout.dll
+C:\Users\hauth\OneDrive\Tài liệu\GitHub\CSharp\Lab02\TH01\Bai9\thamchieuout\obj\Debug\net10.0\refint\thamchieuout.dll
+C:\Users\hauth\OneDrive\Tài liệu\GitHub\CSharp\Lab02\TH01\Bai9\thamchieuout\obj\Debug\net10.0\thamchieuout.pdb
+C:\Users\hauth\OneDrive\Tài liệu\GitHub\CSharp\Lab02\TH01\Bai9\thamchieuout\obj\Debug\net10.0\ref\thamchieuout.dll

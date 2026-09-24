@@ -1,0 +1,12 @@
+C:\Users\hauth\OneDrive\Tài liệu\GitHub\CSharp\Lab02\TH01\Bai6\giatrilonnhat\obj\Debug\net10.0\giatrilonnhat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hauth\OneDrive\Tài liệu\GitHub\CSharp\Lab02\TH01\Bai6\giatrilonnhat\obj\Debug\net10.0\giatrilonnhat.AssemblyInfoInputs.cache
+C:\Users\hauth\OneDrive\Tài liệu\GitHub\CSharp\Lab02\TH01\Bai6\giatrilonnhat\obj\Debug\net10.0\giatrilonnhat.AssemblyInfo.cs
+C:\Users\hauth\OneDrive\Tài liệu\GitHub\CSharp\Lab02\TH01\Bai6\giatrilonnhat\obj\Debug\net10.0\giatrilonnhat.csproj.CoreCompileInputs.cache
+C:\Users\hauth\OneDrive\Tài liệu\GitHub\CSharp\Lab02\TH01\Bai6\giatrilonnhat\obj\Debug\net10.0\giatrilonnhat.sourcelink.json
+C:\Users\hauth\OneDrive\Tài liệu\GitHub\CSharp\Lab02\TH01\Bai6\giatrilonnhat\bin\Debug\net10.0\giatrilonnhat.deps.json
+C:\Users\hauth\OneDrive\Tài liệu\GitHub\CSharp\Lab02\TH01\Bai6\giatrilonnhat\bin\Debug\net10.0\giatrilonnhat.dll
+C:\Users\hauth\OneDrive\Tài liệu\GitHub\CSharp\Lab02\TH01\Bai6\giatrilonnhat\bin\Debug\net10.0\giatrilonnhat.pdb
+C:\Users\hauth\OneDrive\Tài liệu\GitHub\CSharp\Lab02\TH01\Bai6\giatrilonnhat\obj\Debug\net10.0\giatrilonnhat.dll
+C:\Users\hauth\OneDrive\Tài liệu\GitHub\CSharp\Lab02\TH01\Bai6\giatrilonnhat\obj\Debug\net10.0\refint\giatrilonnhat.dll
+C:\Users\hauth\OneDrive\Tài liệu\GitHub\CSharp\Lab02\TH01\Bai6\giatrilonnhat\obj\Debug\net10.0\giatrilonnhat.pdb
+C:\Users\hauth\OneDrive\Tài liệu\GitHub\CSharp\Lab02\TH01\Bai6\giatrilonnhat\obj\Debug\net10.0\ref\giatrilonnhat.dll

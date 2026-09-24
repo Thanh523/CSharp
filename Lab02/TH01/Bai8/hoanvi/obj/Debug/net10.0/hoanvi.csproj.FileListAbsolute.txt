@@ -1,0 +1,12 @@
+C:\Users\hauth\OneDrive\Tài liệu\GitHub\CSharp\Lab02\TH01\Bai8\hoanvi\bin\Debug\net10.0\hoanvi.deps.json
+C:\Users\hauth\OneDrive\Tài liệu\GitHub\CSharp\Lab02\TH01\Bai8\hoanvi\bin\Debug\net10.0\hoanvi.dll
+C:\Users\hauth\OneDrive\Tài liệu\GitHub\CSharp\Lab02\TH01\Bai8\hoanvi\bin\Debug\net10.0\hoanvi.pdb
+C:\Users\hauth\OneDrive\Tài liệu\GitHub\CSharp\Lab02\TH01\Bai8\hoanvi\obj\Debug\net10.0\hoanvi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hauth\OneDrive\Tài liệu\GitHub\CSharp\Lab02\TH01\Bai8\hoanvi\obj\Debug\net10.0\hoanvi.AssemblyInfoInputs.cache
+C:\Users\hauth\OneDrive\Tài liệu\GitHub\CSharp\Lab02\TH01\Bai8\hoanvi\obj\Debug\net10.0\hoanvi.AssemblyInfo.cs
+C:\Users\hauth\OneDrive\Tài liệu\GitHub\CSharp\Lab02\TH01\Bai8\hoanvi\obj\Debug\net10.0\hoanvi.csproj.CoreCompileInputs.cache
+C:\Users\hauth\OneDrive\Tài liệu\GitHub\CSharp\Lab02\TH01\Bai8\hoanvi\obj\Debug\net10.0\hoanvi.sourcelink.json
+C:\Users\hauth\OneDrive\Tài liệu\GitHub\CSharp\Lab02\TH01\Bai8\hoanvi\obj\Debug\net10.0\hoanvi.dll
+C:\Users\hauth\OneDrive\Tài liệu\GitHub\CSharp\Lab02\TH01\Bai8\hoanvi\obj\Debug\net10.0\refint\hoanvi.dll
+C:\Users\hauth\OneDrive\Tài liệu\GitHub\CSharp\Lab02\TH01\Bai8\hoanvi\obj\Debug\net10.0\hoanvi.pdb
+C:\Users\hauth\OneDrive\Tài liệu\GitHub\CSharp\Lab02\TH01\Bai8\hoanvi\obj\Debug\net10.0\ref\hoanvi.dll

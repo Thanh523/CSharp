@@ -1,0 +1,12 @@
+C:\Users\hauth\OneDrive\Tài liệu\GitHub\CSharp\Lab02\TH01\Bai10\doixung\bin\Debug\net10.0\doixung.deps.json
+C:\Users\hauth\OneDrive\Tài liệu\GitHub\CSharp\Lab02\TH01\Bai10\doixung\bin\Debug\net10.0\doixung.dll
+C:\Users\hauth\OneDrive\Tài liệu\GitHub\CSharp\Lab02\TH01\Bai10\doixung\bin\Debug\net10.0\doixung.pdb
+C:\Users\hauth\OneDrive\Tài liệu\GitHub\CSharp\Lab02\TH01\Bai10\doixung\obj\Debug\net10.0\doixung.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hauth\OneDrive\Tài liệu\GitHub\CSharp\Lab02\TH01\Bai10\doixung\obj\Debug\net10.0\doixung.AssemblyInfoInputs.cache
+C:\Users\hauth\OneDrive\Tài liệu\GitHub\CSharp\Lab02\TH01\Bai10\doixung\obj\Debug\net10.0\doixung.AssemblyInfo.cs
+C:\Users\hauth\OneDrive\Tài liệu\GitHub\CSharp\Lab02\TH01\Bai10\doixung\obj\Debug\net10.0\doixung.csproj.CoreCompileInputs.cache
+C:\Users\hauth\OneDrive\Tài liệu\GitHub\CSharp\Lab02\TH01\Bai10\doixung\obj\Debug\net10.0\doixung.sourcelink.json
+C:\Users\hauth\OneDrive\Tài liệu\GitHub\CSharp\Lab02\TH01\Bai10\doixung\obj\Debug\net10.0\doixung.dll
+C:\Users\hauth\OneDrive\Tài liệu\GitHub\CSharp\Lab02\TH01\Bai10\doixung\obj\Debug\net10.0\refint\doixung.dll
+C:\Users\hauth\OneDrive\Tài liệu\GitHub\CSharp\Lab02\TH01\Bai10\doixung\obj\Debug\net10.0\doixung.pdb
+C:\Users\hauth\OneDrive\Tài liệu\GitHub\CSharp\Lab02\TH01\Bai10\doixung\obj\Debug\net10.0\ref\doixung.dll

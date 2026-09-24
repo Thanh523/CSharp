@@ -1,0 +1,12 @@
+C:\Users\hauth\OneDrive\Tài liệu\GitHub\CSharp\Lab02\TH01\Bai5\ThuVienTinhToan\obj\Debug\net10.0\ThuVienTinhToan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hauth\OneDrive\Tài liệu\GitHub\CSharp\Lab02\TH01\Bai5\ThuVienTinhToan\obj\Debug\net10.0\ThuVienTinhToan.AssemblyInfoInputs.cache
+C:\Users\hauth\OneDrive\Tài liệu\GitHub\CSharp\Lab02\TH01\Bai5\ThuVienTinhToan\obj\Debug\net10.0\ThuVienTinhToan.AssemblyInfo.cs
+C:\Users\hauth\OneDrive\Tài liệu\GitHub\CSharp\Lab02\TH01\Bai5\ThuVienTinhToan\obj\Debug\net10.0\ThuVienTinhToan.csproj.CoreCompileInputs.cache
+C:\Users\hauth\OneDrive\Tài liệu\GitHub\CSharp\Lab02\TH01\Bai5\ThuVienTinhToan\obj\Debug\net10.0\ThuVienTinhToan.sourcelink.json
+C:\Users\hauth\OneDrive\Tài liệu\GitHub\CSharp\Lab02\TH01\Bai5\ThuVienTinhToan\bin\Debug\net10.0\ThuVienTinhToan.deps.json
+C:\Users\hauth\OneDrive\Tài liệu\GitHub\CSharp\Lab02\TH01\Bai5\ThuVienTinhToan\bin\Debug\net10.0\ThuVienTinhToan.dll
+C:\Users\hauth\OneDrive\Tài liệu\GitHub\CSharp\Lab02\TH01\Bai5\ThuVienTinhToan\bin\Debug\net10.0\ThuVienTinhToan.pdb
+C:\Users\hauth\OneDrive\Tài liệu\GitHub\CSharp\Lab02\TH01\Bai5\ThuVienTinhToan\obj\Debug\net10.0\ThuVienTinhToan.dll
+C:\Users\hauth\OneDrive\Tài liệu\GitHub\CSharp\Lab02\TH01\Bai5\ThuVienTinhToan\obj\Debug\net10.0\refint\ThuVienTinhToan.dll
+C:\Users\hauth\OneDrive\Tài liệu\GitHub\CSharp\Lab02\TH01\Bai5\ThuVienTinhToan\obj\Debug\net10.0\ThuVienTinhToan.pdb
+C:\Users\hauth\OneDrive\Tài liệu\GitHub\CSharp\Lab02\TH01\Bai5\ThuVienTinhToan\obj\Debug\net10.0\ref\ThuVienTinhToan.dll
