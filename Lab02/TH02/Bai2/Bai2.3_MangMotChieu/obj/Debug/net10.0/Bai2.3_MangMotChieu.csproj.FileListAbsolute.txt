@@ -1,0 +1,15 @@
+C:\Users\hauth\OneDrive\Tài liệu\GitHub\CSharp\Lab02\TH02\Bai2\Bai2.3_MangMotChieu\bin\Debug\net10.0\Bai2.3_MangMotChieu.exe
+C:\Users\hauth\OneDrive\Tài liệu\GitHub\CSharp\Lab02\TH02\Bai2\Bai2.3_MangMotChieu\bin\Debug\net10.0\Bai2.3_MangMotChieu.deps.json
+C:\Users\hauth\OneDrive\Tài liệu\GitHub\CSharp\Lab02\TH02\Bai2\Bai2.3_MangMotChieu\bin\Debug\net10.0\Bai2.3_MangMotChieu.runtimeconfig.json
+C:\Users\hauth\OneDrive\Tài liệu\GitHub\CSharp\Lab02\TH02\Bai2\Bai2.3_MangMotChieu\bin\Debug\net10.0\Bai2.3_MangMotChieu.dll
+C:\Users\hauth\OneDrive\Tài liệu\GitHub\CSharp\Lab02\TH02\Bai2\Bai2.3_MangMotChieu\bin\Debug\net10.0\Bai2.3_MangMotChieu.pdb
+C:\Users\hauth\OneDrive\Tài liệu\GitHub\CSharp\Lab02\TH02\Bai2\Bai2.3_MangMotChieu\obj\Debug\net10.0\Bai2.3_MangMotChieu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hauth\OneDrive\Tài liệu\GitHub\CSharp\Lab02\TH02\Bai2\Bai2.3_MangMotChieu\obj\Debug\net10.0\Bai2.3_MangMotChieu.AssemblyInfoInputs.cache
+C:\Users\hauth\OneDrive\Tài liệu\GitHub\CSharp\Lab02\TH02\Bai2\Bai2.3_MangMotChieu\obj\Debug\net10.0\Bai2.3_MangMotChieu.AssemblyInfo.cs
+C:\Users\hauth\OneDrive\Tài liệu\GitHub\CSharp\Lab02\TH02\Bai2\Bai2.3_MangMotChieu\obj\Debug\net10.0\Bai2.3_MangMotChieu.csproj.CoreCompileInputs.cache
+C:\Users\hauth\OneDrive\Tài liệu\GitHub\CSharp\Lab02\TH02\Bai2\Bai2.3_MangMotChieu\obj\Debug\net10.0\Bai2.3_MangMotChieu.sourcelink.json
+C:\Users\hauth\OneDrive\Tài liệu\GitHub\CSharp\Lab02\TH02\Bai2\Bai2.3_MangMotChieu\obj\Debug\net10.0\Bai2.3_MangMotChieu.dll
+C:\Users\hauth\OneDrive\Tài liệu\GitHub\CSharp\Lab02\TH02\Bai2\Bai2.3_MangMotChieu\obj\Debug\net10.0\refint\Bai2.3_MangMotChieu.dll
+C:\Users\hauth\OneDrive\Tài liệu\GitHub\CSharp\Lab02\TH02\Bai2\Bai2.3_MangMotChieu\obj\Debug\net10.0\Bai2.3_MangMotChieu.pdb
+C:\Users\hauth\OneDrive\Tài liệu\GitHub\CSharp\Lab02\TH02\Bai2\Bai2.3_MangMotChieu\obj\Debug\net10.0\Bai2.3_MangMotChieu.genruntimeconfig.cache
+C:\Users\hauth\OneDrive\Tài liệu\GitHub\CSharp\Lab02\TH02\Bai2\Bai2.3_MangMotChieu\obj\Debug\net10.0\ref\Bai2.3_MangMotChieu.dll

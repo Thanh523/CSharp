@@ -1,0 +1,15 @@
+C:\Users\hauth\OneDrive\Tài liệu\GitHub\CSharp\Lab02\TH02\Bai2\Bai2.2_personList\bin\Debug\net10.0\Bai2.2_PersonList.exe
+C:\Users\hauth\OneDrive\Tài liệu\GitHub\CSharp\Lab02\TH02\Bai2\Bai2.2_personList\bin\Debug\net10.0\Bai2.2_PersonList.deps.json
+C:\Users\hauth\OneDrive\Tài liệu\GitHub\CSharp\Lab02\TH02\Bai2\Bai2.2_personList\bin\Debug\net10.0\Bai2.2_PersonList.runtimeconfig.json
+C:\Users\hauth\OneDrive\Tài liệu\GitHub\CSharp\Lab02\TH02\Bai2\Bai2.2_personList\bin\Debug\net10.0\Bai2.2_PersonList.dll
+C:\Users\hauth\OneDrive\Tài liệu\GitHub\CSharp\Lab02\TH02\Bai2\Bai2.2_personList\bin\Debug\net10.0\Bai2.2_PersonList.pdb
+C:\Users\hauth\OneDrive\Tài liệu\GitHub\CSharp\Lab02\TH02\Bai2\Bai2.2_personList\obj\Debug\net10.0\Bai2.2_PersonList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hauth\OneDrive\Tài liệu\GitHub\CSharp\Lab02\TH02\Bai2\Bai2.2_personList\obj\Debug\net10.0\Bai2.2_PersonList.AssemblyInfoInputs.cache
+C:\Users\hauth\OneDrive\Tài liệu\GitHub\CSharp\Lab02\TH02\Bai2\Bai2.2_personList\obj\Debug\net10.0\Bai2.2_PersonList.AssemblyInfo.cs
+C:\Users\hauth\OneDrive\Tài liệu\GitHub\CSharp\Lab02\TH02\Bai2\Bai2.2_personList\obj\Debug\net10.0\Bai2.2_PersonList.csproj.CoreCompileInputs.cache
+C:\Users\hauth\OneDrive\Tài liệu\GitHub\CSharp\Lab02\TH02\Bai2\Bai2.2_personList\obj\Debug\net10.0\Bai2.2_PersonList.sourcelink.json
+C:\Users\hauth\OneDrive\Tài liệu\GitHub\CSharp\Lab02\TH02\Bai2\Bai2.2_personList\obj\Debug\net10.0\Bai2.2_PersonList.dll
+C:\Users\hauth\OneDrive\Tài liệu\GitHub\CSharp\Lab02\TH02\Bai2\Bai2.2_personList\obj\Debug\net10.0\refint\Bai2.2_PersonList.dll
+C:\Users\hauth\OneDrive\Tài liệu\GitHub\CSharp\Lab02\TH02\Bai2\Bai2.2_personList\obj\Debug\net10.0\Bai2.2_PersonList.pdb
+C:\Users\hauth\OneDrive\Tài liệu\GitHub\CSharp\Lab02\TH02\Bai2\Bai2.2_personList\obj\Debug\net10.0\Bai2.2_PersonList.genruntimeconfig.cache
+C:\Users\hauth\OneDrive\Tài liệu\GitHub\CSharp\Lab02\TH02\Bai2\Bai2.2_personList\obj\Debug\net10.0\ref\Bai2.2_PersonList.dll

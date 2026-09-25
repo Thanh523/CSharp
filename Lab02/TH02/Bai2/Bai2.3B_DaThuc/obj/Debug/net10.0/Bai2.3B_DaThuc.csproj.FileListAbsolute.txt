@@ -1,0 +1,15 @@
+C:\Users\hauth\OneDrive\Tài liệu\GitHub\CSharp\Lab02\TH02\Bai2\Bai2.3B_DaThuc\bin\Debug\net10.0\Bai2.3B_DaThuc.exe
+C:\Users\hauth\OneDrive\Tài liệu\GitHub\CSharp\Lab02\TH02\Bai2\Bai2.3B_DaThuc\bin\Debug\net10.0\Bai2.3B_DaThuc.deps.json
+C:\Users\hauth\OneDrive\Tài liệu\GitHub\CSharp\Lab02\TH02\Bai2\Bai2.3B_DaThuc\bin\Debug\net10.0\Bai2.3B_DaThuc.runtimeconfig.json
+C:\Users\hauth\OneDrive\Tài liệu\GitHub\CSharp\Lab02\TH02\Bai2\Bai2.3B_DaThuc\bin\Debug\net10.0\Bai2.3B_DaThuc.dll
+C:\Users\hauth\OneDrive\Tài liệu\GitHub\CSharp\Lab02\TH02\Bai2\Bai2.3B_DaThuc\bin\Debug\net10.0\Bai2.3B_DaThuc.pdb
+C:\Users\hauth\OneDrive\Tài liệu\GitHub\CSharp\Lab02\TH02\Bai2\Bai2.3B_DaThuc\obj\Debug\net10.0\Bai2.3B_DaThuc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hauth\OneDrive\Tài liệu\GitHub\CSharp\Lab02\TH02\Bai2\Bai2.3B_DaThuc\obj\Debug\net10.0\Bai2.3B_DaThuc.AssemblyInfoInputs.cache
+C:\Users\hauth\OneDrive\Tài liệu\GitHub\CSharp\Lab02\TH02\Bai2\Bai2.3B_DaThuc\obj\Debug\net10.0\Bai2.3B_DaThuc.AssemblyInfo.cs
+C:\Users\hauth\OneDrive\Tài liệu\GitHub\CSharp\Lab02\TH02\Bai2\Bai2.3B_DaThuc\obj\Debug\net10.0\Bai2.3B_DaThuc.csproj.CoreCompileInputs.cache
+C:\Users\hauth\OneDrive\Tài liệu\GitHub\CSharp\Lab02\TH02\Bai2\Bai2.3B_DaThuc\obj\Debug\net10.0\Bai2.3B_DaThuc.sourcelink.json
+C:\Users\hauth\OneDrive\Tài liệu\GitHub\CSharp\Lab02\TH02\Bai2\Bai2.3B_DaThuc\obj\Debug\net10.0\Bai2.3B_DaThuc.dll
+C:\Users\hauth\OneDrive\Tài liệu\GitHub\CSharp\Lab02\TH02\Bai2\Bai2.3B_DaThuc\obj\Debug\net10.0\refint\Bai2.3B_DaThuc.dll
+C:\Users\hauth\OneDrive\Tài liệu\GitHub\CSharp\Lab02\TH02\Bai2\Bai2.3B_DaThuc\obj\Debug\net10.0\Bai2.3B_DaThuc.pdb
+C:\Users\hauth\OneDrive\Tài liệu\GitHub\CSharp\Lab02\TH02\Bai2\Bai2.3B_DaThuc\obj\Debug\net10.0\Bai2.3B_DaThuc.genruntimeconfig.cache
+C:\Users\hauth\OneDrive\Tài liệu\GitHub\CSharp\Lab02\TH02\Bai2\Bai2.3B_DaThuc\obj\Debug\net10.0\ref\Bai2.3B_DaThuc.dll

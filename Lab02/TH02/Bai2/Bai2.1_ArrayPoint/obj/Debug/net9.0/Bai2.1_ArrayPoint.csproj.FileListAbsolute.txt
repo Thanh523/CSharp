@@ -1,0 +1,29 @@
+D:\homework\NNLTCsarp\BaiTapChuong2_v2\Bai2.1_ArrayPoint\bin\Debug\net9.0\Bai2.1_ArrayPoint.exe
+D:\homework\NNLTCsarp\BaiTapChuong2_v2\Bai2.1_ArrayPoint\bin\Debug\net9.0\Bai2.1_ArrayPoint.deps.json
+D:\homework\NNLTCsarp\BaiTapChuong2_v2\Bai2.1_ArrayPoint\bin\Debug\net9.0\Bai2.1_ArrayPoint.runtimeconfig.json
+D:\homework\NNLTCsarp\BaiTapChuong2_v2\Bai2.1_ArrayPoint\bin\Debug\net9.0\Bai2.1_ArrayPoint.dll
+D:\homework\NNLTCsarp\BaiTapChuong2_v2\Bai2.1_ArrayPoint\bin\Debug\net9.0\Bai2.1_ArrayPoint.pdb
+D:\homework\NNLTCsarp\BaiTapChuong2_v2\Bai2.1_ArrayPoint\obj\Debug\net9.0\Bai2.1_ArrayPoint.GeneratedMSBuildEditorConfig.editorconfig
+D:\homework\NNLTCsarp\BaiTapChuong2_v2\Bai2.1_ArrayPoint\obj\Debug\net9.0\Bai2.1_ArrayPoint.AssemblyInfoInputs.cache
+D:\homework\NNLTCsarp\BaiTapChuong2_v2\Bai2.1_ArrayPoint\obj\Debug\net9.0\Bai2.1_ArrayPoint.AssemblyInfo.cs
+D:\homework\NNLTCsarp\BaiTapChuong2_v2\Bai2.1_ArrayPoint\obj\Debug\net9.0\Bai2.1_ArrayPoint.csproj.CoreCompileInputs.cache
+D:\homework\NNLTCsarp\BaiTapChuong2_v2\Bai2.1_ArrayPoint\obj\Debug\net9.0\Bai2.1_ArrayPoint.dll
+D:\homework\NNLTCsarp\BaiTapChuong2_v2\Bai2.1_ArrayPoint\obj\Debug\net9.0\refint\Bai2.1_ArrayPoint.dll
+D:\homework\NNLTCsarp\BaiTapChuong2_v2\Bai2.1_ArrayPoint\obj\Debug\net9.0\Bai2.1_ArrayPoint.pdb
+D:\homework\NNLTCsarp\BaiTapChuong2_v2\Bai2.1_ArrayPoint\obj\Debug\net9.0\Bai2.1_ArrayPoint.genruntimeconfig.cache
+D:\homework\NNLTCsarp\BaiTapChuong2_v2\Bai2.1_ArrayPoint\obj\Debug\net9.0\ref\Bai2.1_ArrayPoint.dll
+C:\Users\hauth\OneDrive\Tài liệu\GitHub\CSharp\Lab02\TH02\Bai2\Bai2.1_ArrayPoint\bin\Debug\net9.0\Bai2.1_ArrayPoint.exe
+C:\Users\hauth\OneDrive\Tài liệu\GitHub\CSharp\Lab02\TH02\Bai2\Bai2.1_ArrayPoint\bin\Debug\net9.0\Bai2.1_ArrayPoint.deps.json
+C:\Users\hauth\OneDrive\Tài liệu\GitHub\CSharp\Lab02\TH02\Bai2\Bai2.1_ArrayPoint\bin\Debug\net9.0\Bai2.1_ArrayPoint.runtimeconfig.json
+C:\Users\hauth\OneDrive\Tài liệu\GitHub\CSharp\Lab02\TH02\Bai2\Bai2.1_ArrayPoint\bin\Debug\net9.0\Bai2.1_ArrayPoint.dll
+C:\Users\hauth\OneDrive\Tài liệu\GitHub\CSharp\Lab02\TH02\Bai2\Bai2.1_ArrayPoint\bin\Debug\net9.0\Bai2.1_ArrayPoint.pdb
+C:\Users\hauth\OneDrive\Tài liệu\GitHub\CSharp\Lab02\TH02\Bai2\Bai2.1_ArrayPoint\obj\Debug\net9.0\Bai2.1_ArrayPoint.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hauth\OneDrive\Tài liệu\GitHub\CSharp\Lab02\TH02\Bai2\Bai2.1_ArrayPoint\obj\Debug\net9.0\Bai2.1_ArrayPoint.AssemblyInfoInputs.cache
+C:\Users\hauth\OneDrive\Tài liệu\GitHub\CSharp\Lab02\TH02\Bai2\Bai2.1_ArrayPoint\obj\Debug\net9.0\Bai2.1_ArrayPoint.AssemblyInfo.cs
+C:\Users\hauth\OneDrive\Tài liệu\GitHub\CSharp\Lab02\TH02\Bai2\Bai2.1_ArrayPoint\obj\Debug\net9.0\Bai2.1_ArrayPoint.csproj.CoreCompileInputs.cache
+C:\Users\hauth\OneDrive\Tài liệu\GitHub\CSharp\Lab02\TH02\Bai2\Bai2.1_ArrayPoint\obj\Debug\net9.0\Bai2.1_ArrayPoint.sourcelink.json
+C:\Users\hauth\OneDrive\Tài liệu\GitHub\CSharp\Lab02\TH02\Bai2\Bai2.1_ArrayPoint\obj\Debug\net9.0\Bai2.1_ArrayPoint.dll
+C:\Users\hauth\OneDrive\Tài liệu\GitHub\CSharp\Lab02\TH02\Bai2\Bai2.1_ArrayPoint\obj\Debug\net9.0\refint\Bai2.1_ArrayPoint.dll
+C:\Users\hauth\OneDrive\Tài liệu\GitHub\CSharp\Lab02\TH02\Bai2\Bai2.1_ArrayPoint\obj\Debug\net9.0\Bai2.1_ArrayPoint.pdb
+C:\Users\hauth\OneDrive\Tài liệu\GitHub\CSharp\Lab02\TH02\Bai2\Bai2.1_ArrayPoint\obj\Debug\net9.0\Bai2.1_ArrayPoint.genruntimeconfig.cache
+C:\Users\hauth\OneDrive\Tài liệu\GitHub\CSharp\Lab02\TH02\Bai2\Bai2.1_ArrayPoint\obj\Debug\net9.0\ref\Bai2.1_ArrayPoint.dll
