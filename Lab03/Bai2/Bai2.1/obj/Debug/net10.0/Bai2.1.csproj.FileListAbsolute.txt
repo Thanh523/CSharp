@@ -1,0 +1,15 @@
+C:\Users\hauth\OneDrive\Tài liệu\GitHub\CSharp\Lab03\Bai2\Bai2.1\bin\Debug\net10.0\Bai2.1.exe
+C:\Users\hauth\OneDrive\Tài liệu\GitHub\CSharp\Lab03\Bai2\Bai2.1\bin\Debug\net10.0\Bai2.1.deps.json
+C:\Users\hauth\OneDrive\Tài liệu\GitHub\CSharp\Lab03\Bai2\Bai2.1\bin\Debug\net10.0\Bai2.1.runtimeconfig.json
+C:\Users\hauth\OneDrive\Tài liệu\GitHub\CSharp\Lab03\Bai2\Bai2.1\bin\Debug\net10.0\Bai2.1.dll
+C:\Users\hauth\OneDrive\Tài liệu\GitHub\CSharp\Lab03\Bai2\Bai2.1\bin\Debug\net10.0\Bai2.1.pdb
+C:\Users\hauth\OneDrive\Tài liệu\GitHub\CSharp\Lab03\Bai2\Bai2.1\obj\Debug\net10.0\Bai2.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hauth\OneDrive\Tài liệu\GitHub\CSharp\Lab03\Bai2\Bai2.1\obj\Debug\net10.0\Bai2.1.AssemblyInfoInputs.cache
+C:\Users\hauth\OneDrive\Tài liệu\GitHub\CSharp\Lab03\Bai2\Bai2.1\obj\Debug\net10.0\Bai2.1.AssemblyInfo.cs
+C:\Users\hauth\OneDrive\Tài liệu\GitHub\CSharp\Lab03\Bai2\Bai2.1\obj\Debug\net10.0\Bai2.1.csproj.CoreCompileInputs.cache
+C:\Users\hauth\OneDrive\Tài liệu\GitHub\CSharp\Lab03\Bai2\Bai2.1\obj\Debug\net10.0\Bai2.1.sourcelink.json
+C:\Users\hauth\OneDrive\Tài liệu\GitHub\CSharp\Lab03\Bai2\Bai2.1\obj\Debug\net10.0\Bai2.1.dll
+C:\Users\hauth\OneDrive\Tài liệu\GitHub\CSharp\Lab03\Bai2\Bai2.1\obj\Debug\net10.0\refint\Bai2.1.dll
+C:\Users\hauth\OneDrive\Tài liệu\GitHub\CSharp\Lab03\Bai2\Bai2.1\obj\Debug\net10.0\Bai2.1.pdb
+C:\Users\hauth\OneDrive\Tài liệu\GitHub\CSharp\Lab03\Bai2\Bai2.1\obj\Debug\net10.0\Bai2.1.genruntimeconfig.cache
+C:\Users\hauth\OneDrive\Tài liệu\GitHub\CSharp\Lab03\Bai2\Bai2.1\obj\Debug\net10.0\ref\Bai2.1.dll
