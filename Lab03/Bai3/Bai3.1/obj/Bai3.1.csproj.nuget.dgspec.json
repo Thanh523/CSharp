@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\hauth\\OneDrive\\Tài liệu\\GitHub\\CSharp\\Lab03\\Bai3\\Bai3.1\\Bai3.1.csproj": {}
+    "C:\\Users\\hauth\\OneDrive\\Tài liệu\\GitHub\\CSharp\\Lab03\\Bai3\\Bai3.1\\Bai3.1.csproj": {}
   },
   "projects": {
-    "c:\\Users\\hauth\\OneDrive\\Tài liệu\\GitHub\\CSharp\\Lab03\\Bai3\\Bai3.1\\Bai3.1.csproj": {
+    "C:\\Users\\hauth\\OneDrive\\Tài liệu\\GitHub\\CSharp\\Lab03\\Bai3\\Bai3.1\\Bai3.1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\hauth\\OneDrive\\Tài liệu\\GitHub\\CSharp\\Lab03\\Bai3\\Bai3.1\\Bai3.1.csproj",
+        "projectUniqueName": "C:\\Users\\hauth\\OneDrive\\Tài liệu\\GitHub\\CSharp\\Lab03\\Bai3\\Bai3.1\\Bai3.1.csproj",
         "projectName": "Bai3.1",
-        "projectPath": "c:\\Users\\hauth\\OneDrive\\Tài liệu\\GitHub\\CSharp\\Lab03\\Bai3\\Bai3.1\\Bai3.1.csproj",
+        "projectPath": "C:\\Users\\hauth\\OneDrive\\Tài liệu\\GitHub\\CSharp\\Lab03\\Bai3\\Bai3.1\\Bai3.1.csproj",
         "packagesPath": "C:\\Users\\hauth\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\hauth\\OneDrive\\Tài liệu\\GitHub\\CSharp\\Lab03\\Bai3\\Bai3.1\\obj\\",
+        "outputPath": "C:\\Users\\hauth\\OneDrive\\Tài liệu\\GitHub\\CSharp\\Lab03\\Bai3\\Bai3.1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -67,7 +67,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.400/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.401/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",

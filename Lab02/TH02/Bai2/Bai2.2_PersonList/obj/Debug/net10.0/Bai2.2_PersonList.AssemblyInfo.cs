@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Bai2.2_PersonList")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cee8336bbe2c999bfcb0cd29d875dfba78ef8ad0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e74816ca374cf412f9ad272074b497ed42068ea1")]
 [assembly: System.Reflection.AssemblyProductAttribute("Bai2.2_PersonList")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Bai2.2_PersonList")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
