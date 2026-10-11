@@ -1,0 +1,15 @@
+C:\Users\hauth\OneDrive\Tài liệu\GitHub\CSharp\Lab5\Th5c\bai3btvn\obj\Debug\net10.0-windows\bai3btvn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hauth\OneDrive\Tài liệu\GitHub\CSharp\Lab5\Th5c\bai3btvn\obj\Debug\net10.0-windows\bai3btvn.AssemblyInfoInputs.cache
+C:\Users\hauth\OneDrive\Tài liệu\GitHub\CSharp\Lab5\Th5c\bai3btvn\obj\Debug\net10.0-windows\bai3btvn.AssemblyInfo.cs
+C:\Users\hauth\OneDrive\Tài liệu\GitHub\CSharp\Lab5\Th5c\bai3btvn\obj\Debug\net10.0-windows\bai3btvn.csproj.CoreCompileInputs.cache
+C:\Users\hauth\OneDrive\Tài liệu\GitHub\CSharp\Lab5\Th5c\bai3btvn\obj\Debug\net10.0-windows\bai3btvn.sourcelink.json
+C:\Users\hauth\OneDrive\Tài liệu\GitHub\CSharp\Lab5\Th5c\bai3btvn\bin\Debug\net10.0-windows\bai3btvn.exe
+C:\Users\hauth\OneDrive\Tài liệu\GitHub\CSharp\Lab5\Th5c\bai3btvn\bin\Debug\net10.0-windows\bai3btvn.deps.json
+C:\Users\hauth\OneDrive\Tài liệu\GitHub\CSharp\Lab5\Th5c\bai3btvn\bin\Debug\net10.0-windows\bai3btvn.runtimeconfig.json
+C:\Users\hauth\OneDrive\Tài liệu\GitHub\CSharp\Lab5\Th5c\bai3btvn\bin\Debug\net10.0-windows\bai3btvn.dll
+C:\Users\hauth\OneDrive\Tài liệu\GitHub\CSharp\Lab5\Th5c\bai3btvn\bin\Debug\net10.0-windows\bai3btvn.pdb
+C:\Users\hauth\OneDrive\Tài liệu\GitHub\CSharp\Lab5\Th5c\bai3btvn\obj\Debug\net10.0-windows\bai3btvn.dll
+C:\Users\hauth\OneDrive\Tài liệu\GitHub\CSharp\Lab5\Th5c\bai3btvn\obj\Debug\net10.0-windows\refint\bai3btvn.dll
+C:\Users\hauth\OneDrive\Tài liệu\GitHub\CSharp\Lab5\Th5c\bai3btvn\obj\Debug\net10.0-windows\bai3btvn.pdb
+C:\Users\hauth\OneDrive\Tài liệu\GitHub\CSharp\Lab5\Th5c\bai3btvn\obj\Debug\net10.0-windows\bai3btvn.genruntimeconfig.cache
+C:\Users\hauth\OneDrive\Tài liệu\GitHub\CSharp\Lab5\Th5c\bai3btvn\obj\Debug\net10.0-windows\ref\bai3btvn.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "bai1btcn/1.0.0": {
+        "runtime": {
+          "bai1btcn.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "bai1btcn/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

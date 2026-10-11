@@ -1,0 +1,30 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net10.0-windows</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="..\bai1\form.cs" Link="Bai1\form.cs" />
+    <Compile Include="..\bai1\function.cs" Link="Bai1\function.cs" />
+    <Compile Include="..\bai1btvn\form.cs" Link="Bai1Btvn\form.cs" />
+    <Compile Include="..\bai1btvn\function.cs" Link="Bai1Btvn\function.cs" />
+    <Compile Include="..\bai2\form.cs" Link="Bai2\form.cs" />
+    <Compile Include="..\bai2\function.cs" Link="Bai2\function.cs" />
+    <Compile Include="..\..\TH5c\bai1\form.cs" Link="TH5c\Bai1\form.cs" />
+    <Compile Include="..\..\TH5c\bai1\function.cs" Link="TH5c\Bai1\function.cs" />
+    <Compile Include="..\..\TH5c\bai1btvn\form.cs" Link="TH5c\Bai1Btvn\form.cs" />
+    <Compile Include="..\..\TH5c\bai1btvn\function.cs" Link="TH5c\Bai1Btvn\function.cs" />
+    <Compile Include="..\..\TH5c\bai2\form.cs" Link="TH5c\Bai2\form.cs" />
+    <Compile Include="..\..\TH5c\bai2\function.cs" Link="TH5c\Bai2\function.cs" />
+    <Compile Include="..\..\TH5c\bai2btvn\form.cs" Link="TH5c\Bai2Btvn\form.cs" />
+    <Compile Include="..\..\TH5c\bai2btvn\function.cs" Link="TH5c\Bai2Btvn\function.cs" />
+    <Compile Include="..\..\TH5c\bai3btvn\form.cs" Link="TH5c\Bai3Btvn\form.cs" />
+    <Compile Include="..\..\TH5c\bai3btvn\function.cs" Link="TH5c\Bai3Btvn\function.cs" />
+  </ItemGroup>
+
+</Project>

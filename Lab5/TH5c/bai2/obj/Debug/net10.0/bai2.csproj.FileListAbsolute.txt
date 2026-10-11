@@ -1,0 +1,5 @@
+C:\Users\hauth\OneDrive\Tài liệu\GitHub\CSharp\Lab5\Th5c\bai2\obj\Debug\net10.0\bai2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hauth\OneDrive\Tài liệu\GitHub\CSharp\Lab5\Th5c\bai2\obj\Debug\net10.0\bai2.AssemblyInfoInputs.cache
+C:\Users\hauth\OneDrive\Tài liệu\GitHub\CSharp\Lab5\Th5c\bai2\obj\Debug\net10.0\bai2.AssemblyInfo.cs
+C:\Users\hauth\OneDrive\Tài liệu\GitHub\CSharp\Lab5\Th5c\bai2\obj\Debug\net10.0\bai2.csproj.CoreCompileInputs.cache
+C:\Users\hauth\OneDrive\Tài liệu\GitHub\CSharp\Lab5\Th5c\bai2\obj\Debug\net10.0\bai2.sourcelink.json
